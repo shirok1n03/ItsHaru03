@@ -7,13 +7,13 @@ Hello! This is me (Haru), I'm 19 years old and my main passion is programming, I
 [Haru's GitHub Site](https://itsharu03.github.io/)
  <p align="center">
     <a href="https://t.me/ItsHaru03">
-      <img width="25px" src="https://img.icons8.com/3d-fluency/512/telegram.png"/>
+      <img width="25px" src="https://img.icons8.com/fluency/512/telegram-app.png"/>
     </a>
     <a href="https://discordapp.com/users/588721950734680104">
-      <img width="25px" src="https://img.icons8.com/3d-fluency/512/3d-fluency-discord.png"/>
+      <img width="25px" src="https://img.icons8.com/color/512/discord--v2.png"/>
     </a>
     <a href="https://twitter.com/@ItsHaru03">
-      <img width="25px" src="https://img.icons8.com/3d-fluency/512/twitter-circled.png"/>
+      <img width="25px" src="https://img.icons8.com/fluency/512/twitter.png"/>
     </a>
   </p>
 </h1>
