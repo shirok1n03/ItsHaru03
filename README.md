@@ -1,4 +1,4 @@
-<img align="left" src="https://avatars.githubusercontent.com/u/115174306?v=4" alt=""  width="300px"></a>
+<img align="left" src="https://github.com/ItsHaru03/ItsHaru03/blob/main/xmas_pfp.png" alt=""  width="300px"></a>
 
 # ItsHaru03's GitHub Page
 Hello! This is my site (Haru), I am 19 years old and my main passion is programming, I live in Molise (there's no xD) and I am currently considering the choice of university.
