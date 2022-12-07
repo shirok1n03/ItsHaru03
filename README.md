@@ -2,7 +2,7 @@
 # ItsHaru03's GitHub Page
 
 
-Hello! This is me (Haru), I'm 19 years old and my main passion is programming, I live in Molise (there's no xD) and I am currently considering the choice of university.
+Hi! This is me (Haru), I'm 19 years old and my main passion is programming, I live in Molise (there's no xD) and I am currently considering the choice of university.
 
  <p align="center">
  <h2>Website</h2>
