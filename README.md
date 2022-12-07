@@ -5,11 +5,7 @@
 Hi! This is me (Haru), I'm 19 years old and my main passion is programming, I live in Molise (there's no xD) and I am currently considering the choice of university.
 
  <p align="center">
- <h2>Website</h2>
- website >>
-    <a href="https://itsharu03.github.io">
-      <img width="25px" src="https://img.icons8.com/fluency/512/github.png"/>
-    </a>
+    <a href="https://itsharu03.github.io"><img width="25px" src="https://img.icons8.com/fluency/512/github.png"/> Website</a>
  <h2>Social</h2>
     <a href="https://t.me/ItsHaru03">
       <img width="25px" src="https://img.icons8.com/fluency/512/telegram-app.png"/>
