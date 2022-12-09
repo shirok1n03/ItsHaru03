@@ -18,6 +18,8 @@ Hi! This is me (Haru), I'm 19 years old and my main passion is programming, I li
     <a href="https://instagram.com/ItsHaru03">
       <img width="25px" src="https://img.icons8.com/fluency/512/instagram-new.png"/>
     </a>
+ <br>
+ Icons by <a href="https://icons8.it/">Icons8</a>
   </p>
 </h1>
 
