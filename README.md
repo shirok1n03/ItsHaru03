@@ -5,7 +5,7 @@
 Hi! This is me, Haru, I'm 19 years old from Molise, Italy and my main passion is programming 🧑🏻‍💻.
 
  <p align="center">
-    <a href="https://itsharu03.github.io"><img width="25px" src="https://img.icons8.com/fluency/512/github.png"/> Website</a>
+    <a href="https://itsharu03.github.io"><img width="25px" src="https://img.icons8.com/fluency/512/github.png"/> ### Website</a>
  <h2>Social</h2>
     <a href="https://t.me/ItsHaru03">
       <img width="25px" src="https://img.icons8.com/fluency/512/telegram-app.png"/>
