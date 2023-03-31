@@ -2,7 +2,7 @@
 # ItsHaru03's GitHub Page
 
 
-Hi! This is me, Haru, I'm 19 years old from Molise, Italy and my main passion is programming 🧑🏻‍💻.
+Hi! This is me, Haru, I'm 20 years old from Molise, Italy and my main passion is programming 🧑🏻‍💻.
 
  <p align="center">
  <a href="https://itsharu03.github.io"><img width="25px" src="https://img.icons8.com/fluency/512/github.png"/>Website</a>
