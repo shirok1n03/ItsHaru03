@@ -1,5 +1,5 @@
 <img align="left" src="https://github.com/ItsHaru03/ItsHaru03/blob/main/haru.png" alt=""  width="300px"></a>
-# ItsHaru03's GitHub Page
+# Shirok1n03's GitHub Page
 
 
 Hi! This is me, Shiro, I'm 20 years old from Molise, Italy and my main passion is programming 🧑🏻‍💻.
